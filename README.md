@@ -20,6 +20,3 @@ This project demonstrates the core idea of the **Publish-Subscribe pattern**:
 
 No external libraries required.
 
----
-
-##  Installation & Setup
